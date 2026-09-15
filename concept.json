@@ -1,0 +1,11 @@
+{
+  "slug": "onchain-zine",
+  "name": "Onchain Zine",
+  "kind": "art",
+  "description": "Lay out a miniature multi-page text zine with deterministic compact encoding.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
