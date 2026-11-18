@@ -8,7 +8,7 @@ Lay out a miniature multi-page text zine with deterministic compact encoding.
 
 - Source: https://github.com/nirholas/onchain-zine
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
